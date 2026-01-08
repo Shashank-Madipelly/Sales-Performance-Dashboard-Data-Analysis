@@ -55,3 +55,26 @@ The goal was to design an executive-level dashboard that highlights key performa
 
 ## 🧩 Workflow
 1. Data Cleaning using Python
+2. SQL-based KPI and trend analysis
+3. Dashboard development in Tableau
+
+---
+
+## 📊 Tableau Dashboard
+🔗 Tableau Public Link: https://public.tableau.com/views/Book1_17679053363990/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
+## 🚀 Key Takeaways
+- Built an executive-ready dashboard for business decision-making
+- Transformed large-scale raw data into actionable insights
+- Demonstrated strong data analysis, SQL, and visualization skills
+
+---
+
+## 📌 Future Improvements
+- Sales forecasting using predictive models
+- Discount impact analysis
+- Customer segmentation
+- Automated data refresh pipelines
+
